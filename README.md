@@ -8,44 +8,44 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 # Contents
 
 - [Apple (iOS/iPadOS/macOS/tvOS)](#apple-iosipadosmacostvos)
-  - [Resources](#resources)
-  - [People & Communities](#people--communities)
-  - [Tools](#tools)
+  - [Resources :bookmark_tabs:](#resources-bookmark_tabs)
+  - [People & Communities :loudspeaker:](#people--communities-loudspeaker)
+  - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench)
 - [Google (Android)](#google-android)
-  - [Resources](#resources-1)
-  - [People & Communities](#people--communities-1)
-  - [Tools](#tools-1)
+  - [Resources :bookmark_tabs:](#resources-bookmark_tabs-1)
+  - [People & Communities :loudspeaker:](#people--communities-loudspeaker-1)
+  - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench-1)
 - [Microsoft (Windows)](#microsoft-windows)
-  - [Resources](#resources-2)
-  - [People & Communities](#people--communities-2)
-  - [Tools](#tools-2)
+  - [Resources :bookmark_tabs:](#resources-bookmark_tabs-2)
+  - [People & Communities :loudspeaker:](#people--communities-loudspeaker-2)
+  - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench-2)
 - [General](#general)
-  - [People & Communities](#people--communities-3)
+  - [People & Communities :loudspeaker:](#people--communities-loudspeaker-3)
 
 # Apple (iOS/iPadOS/macOS/tvOS)
-## Resources
+## Resources :bookmark_tabs:
 
     TODO
 
-## People & Communities
+## People & Communities :loudspeaker:
 
   * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices
   * [Mac Admins Podcast](https://podcast.macadmins.org)
 
-## Tools
+## Tools :hammer_and_wrench:
 
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
 
 # Google (Android)
-## Resources
+## Resources :bookmark_tabs:
   
   * [Android Enterprise](https://developers.google.com/android/work) guide
   * Overview of the [latest Android enterprise features](https://developer.android.com/about/versions/12/work) 
   * [Android Management API](https://developers.google.com/android/management) - Google's API for enrollment and management of Android enterprises and devices
   * [Google Play EMM API](https://developers.google.com/android/work/play/emm-api) `deprecated`
 
-## People & Communities
+## People & Communities :loudspeaker:
 
   * [Android Enterprise EMM Provider community](https://emm.androidenterprise.dev) - A technical integration community for developers of enterprise mobility management solutions
   * [Jason Bayton](https://bayton.org)'s blog - Accredited Enterprise Mobility (MDM) and validated Android Enterprise Expert
@@ -53,20 +53,20 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [#android-enterprise](https://stackoverflow.com/questions/tagged/android-enterprise) on stack overflow
   * [#emm](https://stackoverflow.com/questions/tagged/emm) on stack overflow
 
-## Tools
+## Tools :hammer_and_wrench:
    
    * [Test DPC App](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
 
 # Microsoft (Windows)
-## Resources
+## Resources :bookmark_tabs:
 
     TODO
 
-## People & Communities
+## People & Communities :loudspeaker:
 
     TODO
 
-## Tools
+## Tools :hammer_and_wrench:
 
     TODO
 
@@ -74,7 +74,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
 Applicable to all platforms.
 
-## People & Communities
+## People & Communities :loudspeaker:
 
   * [EMM.how](https://emm.how) - EMM.how is IT’s know-how forum for everything Enterprise Mobility Management
   * [/r/mdm](https://reddit.com/r/mdm) - A Reddit *All Things MDM* community (not quite active)
