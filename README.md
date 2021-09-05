@@ -25,15 +25,21 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 # Apple (iOS/iPadOS/macOS/tvOS)
 ## Resources :bookmark_tabs:
 
-    TODO
+  * [What is mobile device management (MDM)?](https://support.apple.com/guide/mdm/mdm-overview-mdmbf9e668/1/web/1.0)
+  * [Over-the-Air Profile Delivery](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/iPhoneOTAConfiguration/OTASecurity/OTASecurity.html#//apple_ref/doc/uid/TP40009505-CH3-SW1) - OTA enrollment and configuration documentation
+  * [Device management](https://developer.apple.com/documentation/devicemanagement) - Apple's device management APIs documentation. Also includes automated device enrollments and apps and books cloud APIs.
+  * [Mobile Device Management Settings](https://support.apple.com/guide/mdm/welcome/web) - MDM settings info for IT administrators
+  * [Developer downloads](http://developer.apple.com/download/) (*Requires an Apple developer account*)
 
 ## People & Communities :loudspeaker:
-
+  
+  * [Open Radar](https://openradar.appspot.com) - A public database of issues opened by users. Contains many MDM issues as well. Open Radar is a private and NOT an Apple project!
   * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices
   * [Mac Admins Podcast](https://podcast.macadmins.org)
 
 ## Tools :hammer_and_wrench:
-
+  
+  * [Apple Configurator](https://support.apple.com/apple-configurator) - Configure and deploy payloads and profiles to Apple devices
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
 
