@@ -25,14 +25,18 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 # Apple (iOS/iPadOS/macOS/tvOS)
 ## Resources :bookmark_tabs:
 
-  * [What is mobile device management (MDM)?](https://support.apple.com/guide/mdm/mdm-overview-mdmbf9e668/1/web/1.0)
+  * [Deployment Reference for iPhone and iPad](https://support.apple.com/guide/deployment-reference-ios/welcome/web)
+  * [Deployment Reference for Mac](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
   * [Over-the-Air Profile Delivery](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/iPhoneOTAConfiguration/OTASecurity/OTASecurity.html#//apple_ref/doc/uid/TP40009505-CH3-SW1) - OTA enrollment and configuration documentation
   * [Device management](https://developer.apple.com/documentation/devicemanagement) - Apple's device management APIs documentation. Also includes automated device enrollments and apps and books cloud APIs.
   * [Mobile Device Management Settings](https://support.apple.com/guide/mdm/welcome/web) - MDM settings info for IT administrators
+  * [Apple Seed](https://appleseed.apple.com/sp/welcome) - Test pre-release software products (*Requires an Apple developer account*)
   * [Developer downloads](http://developer.apple.com/download/) (*Requires an Apple developer account*)
 
 ## People & Communities :loudspeaker:
   
+  * [WWDC Device management](https://developer.apple.com/videos/all-videos/?q=mdm) videos - Videos that cover all the MDM features released on yearly basis by Apple
+  * [WWDC Enterprise](https://developer.apple.com/videos/education-enterprise) topic videos - Includes the complete set of enterprise features released on yearly basis by Apple  
   * [Open Radar](https://openradar.appspot.com) - A public database of issues opened by users. Contains many MDM issues as well. Open Radar is a private and NOT an Apple project!
   * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices
   * [Mac Admins Podcast](https://podcast.macadmins.org)
@@ -47,7 +51,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 ## Resources :bookmark_tabs:
   
   * [Android Enterprise](https://developers.google.com/android/work) guide
-  * Overview of the [latest Android enterprise features](https://developer.android.com/about/versions/12/work) 
+  * [Android enterprise features](https://developer.android.com/about/versions/12/work) - Overview of the latest enterprise features
   * [Android Management API](https://developers.google.com/android/management) - Google's API for enrollment and management of Android enterprises and devices
   * [Google Play EMM API](https://developers.google.com/android/work/play/emm-api) `deprecated`
 
