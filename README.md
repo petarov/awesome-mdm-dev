@@ -70,11 +70,14 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
 
-    TODO
+    [Mobile device management](https://docs.microsoft.com/en-us/windows/client-management/mdm/) - Starting point to Microsoft's MDM documentation
+    [Mobile device enrollment](https://docs.microsoft.com/en-us/windows/client-management/mdm/mobile-device-enrollment) - Enrollment protocol breakdown
+    [Configuration service provider reference](https://docs.microsoft.com/en-us/windows/client-management/mdm/configuration-service-provider-reference) - CSPs allow for read, set, modify, or delete of configuration settings on the enrolled device.
+
 
 ## People & Communities :loudspeaker:
 
-    TODO
+    [Mobile Device Management](https://social.technet.microsoft.com/Forums/en-US/home?forum=winphonemgmt) on TechNet forums
 
 ## Tools :hammer_and_wrench:
 
