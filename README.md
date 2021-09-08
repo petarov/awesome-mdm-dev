@@ -23,6 +23,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench-2)
 - [General](#general)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-3)
+  - [Tools](#tools)
 
 # Apple (iOS/iPadOS/macOS/tvOS)
 ## Resources :bookmark_tabs:
@@ -48,8 +49,8 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [Apple Configurator](https://support.apple.com/apple-configurator) - Configure and deploy payloads and profiles to Apple devices
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
-  * [apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
-  * [apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
+  * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
+  * [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
 
 # Google (Android)
 ## Resources :bookmark_tabs:
@@ -69,8 +70,8 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
 ## Tools :hammer_and_wrench:
    
-   * [Test DPC App](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
-   * [Android Play Store Apps by Google](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
+   * [googlesamples/android-testdpc](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
+   * [petarov/google-android-app-ids](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
 
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
@@ -97,3 +98,7 @@ Applicable to all platforms.
   * [/r/mdm](https://reddit.com/r/mdm) - A Reddit *All Things MDM* community (not quite active)
   * [#mdm](https://stackoverflow.com/questions/tagged/mdm) on stack overflow
   * [#device-management](https://stackoverflow.com/questions/tagged/device-management) on stack overflow
+
+## Tools
+
+  * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
