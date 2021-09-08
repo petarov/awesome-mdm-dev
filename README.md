@@ -5,7 +5,7 @@ Awesome MDM Developer
 
 Mobile Device Management `MDM` developer resources: guides, documentation, communities and open source software.
 
-**Note**: Please do not open PRs for links to non-open source software!
+**NOTE**: Please do not open pull requests with links to non-open source software!
 
 # Contents
 
