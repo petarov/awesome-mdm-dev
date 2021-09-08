@@ -24,6 +24,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 - [General](#general)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-3)
   - [Tools](#tools)
+- [License](#license)
 
 # Apple (iOS/iPadOS/macOS/tvOS)
 ## Resources :bookmark_tabs:
@@ -102,3 +103,7 @@ Applicable to all platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
+
+# License
+
+[MIT](LICENSE)
