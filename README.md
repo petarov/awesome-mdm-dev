@@ -48,6 +48,8 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [Apple Configurator](https://support.apple.com/apple-configurator) - Configure and deploy payloads and profiles to Apple devices
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
+  * [apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
+  * [apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
 
 # Google (Android)
 ## Resources :bookmark_tabs:
@@ -68,6 +70,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 ## Tools :hammer_and_wrench:
    
    * [Test DPC App](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
+   * [Android Play Store Apps by Google](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
 
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
@@ -75,7 +78,6 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [Mobile device management](https://docs.microsoft.com/en-us/windows/client-management/mdm/) - Starting point to Microsoft's MDM documentation
   * [Mobile device enrollment](https://docs.microsoft.com/en-us/windows/client-management/mdm/mobile-device-enrollment) - Enrollment protocol breakdown
   * [Configuration service provider reference](https://docs.microsoft.com/en-us/windows/client-management/mdm/configuration-service-provider-reference) - CSPs allow for read, set, modify, or delete of configuration settings on the enrolled device.
-
 
 ## People & Communities :loudspeaker:
 
