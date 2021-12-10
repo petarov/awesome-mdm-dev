@@ -89,9 +89,9 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
     TODO
 
-# General
+# Multiplatform
 
-Applicable to all platforms.
+Applicable to multiple platforms.
 
 ## People & Communities :loudspeaker:
 
@@ -104,3 +104,4 @@ Applicable to all platforms.
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
   * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
+  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet.
