@@ -72,6 +72,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
    
    * [googlesamples/android-testdpc](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
    * [petarov/google-android-app-ids](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
+   * [Headwind MDM](https://h-mdm.com/open-source/) - Headwind MDM is a Mobile Device Management platform for Android devices, designed for corporate app developers and IT managers.
 
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
