@@ -103,3 +103,4 @@ Applicable to all platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
+  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
