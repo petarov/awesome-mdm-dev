@@ -72,6 +72,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
    
    * [googlesamples/android-testdpc](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
    * [petarov/google-android-app-ids](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
+   * [Headwind MDM](https://h-mdm.com/open-source/) - Headwind MDM is a Mobile Device Management platform for Android devices, designed for corporate app developers and IT managers.
 
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
@@ -88,9 +89,9 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
     TODO
 
-# General
+# Multiplatform
 
-Applicable to all platforms.
+Applicable to multiple platforms.
 
 ## People & Communities :loudspeaker:
 
@@ -102,3 +103,5 @@ Applicable to all platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
+  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
+  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
