@@ -21,7 +21,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   - [Resources :bookmark_tabs:](#resources-bookmark_tabs-2)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-2)
   - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench-2)
-- [General](#general)
+- [Multiplatform](#multiplatform)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-3)
   - [Tools](#tools)
 
