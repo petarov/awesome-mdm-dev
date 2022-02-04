@@ -52,6 +52,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
   * [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
   * [petarov/appstore-web-search](https://github.com/petarov/appstore-web-search) - Search iTunes apps by name or id
+  * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple.
 
 # Google (Android)
 ## Resources :bookmark_tabs:
