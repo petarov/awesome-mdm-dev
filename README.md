@@ -21,7 +21,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   - [Resources :bookmark_tabs:](#resources-bookmark_tabs-2)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-2)
   - [Tools :hammer_and_wrench:](#tools-hammer_and_wrench-2)
-- [General](#general)
+- [Multiplatform](#multiplatform)
   - [People & Communities :loudspeaker:](#people--communities-loudspeaker-3)
   - [Tools](#tools)
 - [License](#license)
@@ -42,6 +42,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [WWDC Device management](https://developer.apple.com/videos/all-videos/?q=mdm) videos - Videos that cover all the MDM features released on yearly basis by Apple
   * [WWDC Enterprise](https://developer.apple.com/videos/education-enterprise) topic videos - Includes the complete set of enterprise features released on yearly basis by Apple  
   * [Open Radar](https://openradar.appspot.com) - A public database of issues opened by users. Contains many MDM issues as well. Open Radar is a private and NOT an Apple project!
+  * [Apple Developer RSS Feed](https://developer.apple.com/news/releases/rss/releases.rss) - Includes info about firmware releases
   * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices
   * [Mac Admins Podcast](https://podcast.macadmins.org)
 
@@ -52,6 +53,8 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
   * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
   * [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
+  * [petarov/appstore-web-search](https://github.com/petarov/appstore-web-search) - Search iTunes apps by name or id
+  * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple
 
 # Google (Android)
 ## Resources :bookmark_tabs:
@@ -73,6 +76,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
    
    * [googlesamples/android-testdpc](https://github.com/googlesamples/android-testdpc) - Test DPC is an app designed to help test applications and platforms in an Android work profile
    * [petarov/google-android-app-ids](https://github.com/petarov/google-android-app-ids) - A list of package names, links and genres for Android apps made by Google on the Play Store
+   * [Headwind MDM](https://h-mdm.com/open-source/) - Headwind MDM is a Mobile Device Management platform for Android devices, designed for corporate app developers and IT managers.
 
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
@@ -89,9 +93,9 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
     TODO
 
-# General
+# Multiplatform
 
-Applicable to all platforms.
+Applicable to multiple platforms.
 
 ## People & Communities :loudspeaker:
 
@@ -103,6 +107,8 @@ Applicable to all platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
+  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
+  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
 
 # License
 
