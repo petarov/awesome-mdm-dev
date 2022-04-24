@@ -53,8 +53,9 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
   * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
   * [joeblau/apple-bundle-identifiers](https://github.com/joeblau/apple-bundle-identifiers) - A list of Apple native app bundle identifiers
-  * [petarov/appstore-web-search](https://github.com/petarov/appstore-web-search) - Search iTunes apps by name or id
+  * [petarov/appstore-web-search](https://org.vexelon.net/asws/) - Search iTunes apps by name or id
   * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple
+  * [petarov/query-apple-firmware-updates](https://org.vexelon.net/qadfu/) - Search iOS, iPadOS, tvOS devices firmware updates
 
 # Google (Android)
 ## Resources :bookmark_tabs:
@@ -107,9 +108,12 @@ Applicable to multiple platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
-  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
-  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
+<<<<<<< HEAD
 
 # License
 
 [MIT](LICENSE)
+=======
+  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
+  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
+>>>>>>> 4f25f5976c9ad51ba8edf66f37319ff5bda0859a
