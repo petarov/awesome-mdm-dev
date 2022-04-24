@@ -108,12 +108,9 @@ Applicable to multiple platforms.
 ## Tools
 
   * [micromdm/scep](https://github.com/micromdm/scep) - A SCEP server written in Go
-<<<<<<< HEAD
+  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
+  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
 
 # License
 
 [MIT](LICENSE)
-=======
-  * [IntergalacticPenguin/mobile-toolkit](https://github.com/IntergalacticPenguin/mobile-toolkit) - Command line tool for Android & iOS device management
-  * [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - With MeshCentral, you can run your own web server and use it to remotely manage and control computers on a local network or anywhere on the internet.
->>>>>>> 4f25f5976c9ad51ba8edf66f37319ff5bda0859a
