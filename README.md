@@ -49,7 +49,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 ## Tools :hammer_and_wrench:
   
   * [Apple Configurator](https://support.apple.com/apple-configurator) - Configure and deploy payloads and profiles to Apple devices
-  * [Apple Device Management Client Schema](http://github.com/apple/device-management) - YAML files from which Apple's MDM docs are built
+  * [Apple Device Management Client Schema](http://github.com/apple/device-management) - YAML files on GitHub from which Apple's MDM docs are built
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
   * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
