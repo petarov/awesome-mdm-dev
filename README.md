@@ -57,6 +57,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [petarov/appstore-web-search](https://vexelon.net/asws/) - Search iTunes apps by name or id
   * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple
   * [petarov/query-apple-firmware-updates](https://vexelon.net/qadfu/) - Search iOS, iPadOS, tvOS devices firmware updates
+  * [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles
 
 # Google (Android)
 ## Resources :bookmark_tabs:
