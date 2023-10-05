@@ -58,6 +58,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple
   * [petarov/query-apple-firmware-updates](https://vexelon.net/qadfu/) - Search iOS, iPadOS, tvOS devices firmware updates
   * [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles
+  * [clo4/apple_device_identifiers](https://github.com/clo4/apple_device_identifiers) - A best-effort compilation of Apple's device identifiers
 
 # Google (Android)
 ## Resources :bookmark_tabs:
