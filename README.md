@@ -85,13 +85,14 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 # Microsoft (Windows)
 ## Resources :bookmark_tabs:
 
-  * [Mobile device management](https://docs.microsoft.com/en-us/windows/client-management/mdm/) - Starting point to Microsoft's MDM documentation
+  * [Mobile Device Management overview](https://learn.microsoft.com/en-us/windows/client-management/mdm-overview) - Starting point to Microsoft's MDM documentation
   * [Mobile device enrollment](https://docs.microsoft.com/en-us/windows/client-management/mdm/mobile-device-enrollment) - Enrollment protocol breakdown
   * [Configuration service provider reference](https://docs.microsoft.com/en-us/windows/client-management/mdm/configuration-service-provider-reference) - CSPs allow for read, set, modify, or delete of configuration settings on the enrolled device.
 
 ## People & Communities :loudspeaker:
 
-  * [Mobile Device Management](https://social.technet.microsoft.com/Forums/en-US/home?forum=winphonemgmt) on TechNet forums
+  * [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/) - Get help on technical topics
+  * [/r/Intune](https://www.reddit.com/r/Intune) - A Reddit community about Intune: Mobile Device Management service, part of Microsoft's Enterprise Mobility
 
 ## Tools :hammer_and_wrench:
 
@@ -104,6 +105,7 @@ Applicable to multiple platforms.
 ## People & Communities :loudspeaker:
 
   * [EMM.how](https://emm.how) - EMM.how is IT’s know-how forum for everything Enterprise Mobility Management
+  * [Mobile Pros](https://mobilepros.org) - A Slack community of enterprise mobility industry professionals
   * [/r/mdm](https://reddit.com/r/mdm) - A Reddit *All Things MDM* community (not quite active)
   * [#mdm](https://stackoverflow.com/questions/tagged/mdm) on stack overflow
   * [#device-management](https://stackoverflow.com/questions/tagged/device-management) on stack overflow
