@@ -105,7 +105,7 @@ Applicable to multiple platforms.
 ## People & Communities :loudspeaker:
 
   * [EMM.how](https://emm.how) - EMM.how is IT’s know-how forum for everything Enterprise Mobility Management
-  * [Mobile Pros](https://mobilepros.org) - A Slack community of enterprise mobility industry professionals
+  * [Mobile Pros](https://mobilepros.org) - A Discord community of enterprise mobility industry professionals
   * [/r/mdm](https://reddit.com/r/mdm) - A Reddit *All Things MDM* community (not quite active)
   * [#mdm](https://stackoverflow.com/questions/tagged/mdm) on stack overflow
   * [#device-management](https://stackoverflow.com/questions/tagged/device-management) on stack overflow
