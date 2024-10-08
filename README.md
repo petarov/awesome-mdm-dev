@@ -49,7 +49,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 ## Tools :hammer_and_wrench:
   
   * [Apple Configurator](https://support.apple.com/apple-configurator) - Configure and deploy payloads and profiles to Apple devices
-  * [Apple Device Management Client Schema](http://github.com/apple/device-management) - YAML files on GitHub from which Apple's MDM docs are built
+  * [apple/device-management](http://github.com/apple/device-management) - Apple Device Management Client Schema: YAML files on GitHub from which Apple's MDM docs are built
   * [MicroMDM](https://github.com/micromdm/micromdm) - An open source Mobile Device Management server for Apple Devices
   * [NanoMDM](https://github.com/micromdm/nanomdm) - A minimalist open source Apple MDM server heavily inspired by MicroMDM
   * [petarov/apns-push-cmd](https://github.com/petarov/apns-push-cmd) - Command line tool for sending app and MDM push notifications
@@ -75,6 +75,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [#android-management-api](https://stackoverflow.com/questions/tagged/android-management-api) on stack overflow
   * [#android-enterprise](https://stackoverflow.com/questions/tagged/android-enterprise) on stack overflow
   * [#emm](https://stackoverflow.com/questions/tagged/emm) on stack overflow
+  * [petarov/amapi-feed](http://github.com/petarov/amapi-feed) - Android Management API release notes RSS feed
 
 ## Tools :hammer_and_wrench:
    
@@ -96,7 +97,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
 ## Tools :hammer_and_wrench:
 
-    TODO
+  * [microsoftgraph](https://github.com/microsoftgraph) - Development tools and libs: Unified endpoint for accessing data, relationships and insights coming from the Microsoft cloud
 
 # Multiplatform
 
