@@ -39,11 +39,12 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
 
 ## People & Communities :loudspeaker:
   
-  * [WWDC Device management](https://developer.apple.com/videos/all-videos/?q=mdm) videos - Videos that cover all the MDM features released on yearly basis by Apple
-  * [WWDC Enterprise](https://developer.apple.com/videos/education-enterprise) topic videos - Includes the complete set of enterprise features released on yearly basis by Apple  
-  * [Open Radar](https://openradar.appspot.com) - A public database of issues opened by users. Contains many MDM issues as well. Open Radar is a private and NOT an Apple project!
+  * [WWDC Device management](https://developer.apple.com/videos/all-videos/?q=mdm) videos - Videos that cover all the MDM features released on yearly basis by Apple.
+  * [WWDC Enterprise](https://developer.apple.com/videos/education-enterprise) topic videos - Includes the complete set of enterprise features released on yearly basis by Apple.
+  * [Open Feedback Assistant](https://github.com/feedback-assistant/reports) - Similar to Open Radar, but it's easier to fill out reports and hosted on GitHub, which has better search.
+  * [Open Radar](https://openradar.appspot.com) - (legacy) A public database of issues opened by users. Contains many MDM issues as well. Open Radar is a non-Apple initiative.
   * [Apple Developer RSS Feed](https://developer.apple.com/news/releases/rss/releases.rss) - Includes info about firmware releases
-  * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices
+  * [Mac Admins Slack](https://www.macadmins.org) - A community that discusses issues they face with Apple devices.
   * [Mac Admins Podcast](https://podcast.macadmins.org)
 
 ## Tools :hammer_and_wrench:
@@ -105,11 +106,11 @@ Applicable to multiple platforms.
 
 ## People & Communities :loudspeaker:
 
-  * [EMM.how](https://emm.how) - EMM.how is IT’s know-how forum for everything Enterprise Mobility Management
   * [Mobile Pros](https://mobilepros.org) - A Discord community of enterprise mobility industry professionals
-  * [/r/mdm](https://reddit.com/r/mdm) - A Reddit *All Things MDM* community (not quite active)
   * [#mdm](https://stackoverflow.com/questions/tagged/mdm) on stack overflow
   * [#device-management](https://stackoverflow.com/questions/tagged/device-management) on stack overflow
+  * [/r/mdm](https://reddit.com/r/mdm) - Reddit *All Things MDM* community (not active)
+  * [/r/Intune](https://www.reddit.com/r/Intune) - Reddit Microsoft Intune community (active)
 
 ## Tools
 
