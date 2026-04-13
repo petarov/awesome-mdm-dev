@@ -60,6 +60,7 @@ Mobile Device Management `MDM` developer resources: guides, documentation, commu
   * [clo4/apple_device_identifiers](https://github.com/clo4/apple_device_identifiers) - A best-effort compilation of Apple's device identifiers
   * [m1stadev/AppleReleases](https://github.com/m1stadev/AppleReleases) - Get notifications in your Discord server of any software releases from Apple
   * [petarov/query-apple-firmware-updates](https://vexelon.net/qadfu/) - Search iOS, iPadOS, tvOS devices firmware updates
+  * [github.com/macadmins/sofa](https://github.com/macadmins/sofa) - SOFA: Simple Organized Feed for Apple Software Updates
 
 # Google (Android)
 ## Resources :bookmark_tabs:
